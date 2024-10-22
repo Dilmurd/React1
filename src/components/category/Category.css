@@ -1,0 +1,16 @@
+.category{
+    padding: 22px;
+    border-bottom: 1px solid #ddd;
+}
+.category__wrapper{
+    display: grid;
+    grid-template-columns: repeat(6,1fr);
+    grid-gap: 21px;
+}
+.category__card{
+    padding: 13px 46px;
+    p{
+        font-size: 14px;
+        color: #768088;
+    }
+}

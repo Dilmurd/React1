@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: serif;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+li{
+    list-style: none;
+}
+.container{
+    max-width: 972px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+.container__lg{
+    max-width: 1472px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 16px;
+}
